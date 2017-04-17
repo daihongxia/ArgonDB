@@ -1,0 +1,6 @@
+T->Draw("L.gold.p")
+.q
+THaRun* run = 0
+_file0->GetObject("Run_Data",run)
+.q
+.q
