@@ -201,7 +201,7 @@ trigger-8     0   7     1     7    1      trigger 8 on Right Arm
 bcm_d1_copy   0   7     1     8    1 
 Fast-clock    0   7     1     9    1
 TDC-gate      0   7     1     10   1 
-Empty	      0   7     1     11   1 
+T12	      0   7     1     11   1 
 L1-Accept     0   7     1     12   1 
 L1A-copy      0   7     1     13   1
 Empty	      0   7     1     14   1 
